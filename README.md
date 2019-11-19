@@ -1,5 +1,7 @@
 # My Trello clone
 
+You can see it [here](https://kostya-flern.github.io/Trello-clone/)
+
 *If you need to organize or plan something, Trello has you covered.*
 
 >Using Trello to Organize Your Entire Life
